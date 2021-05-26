@@ -1,0 +1,15 @@
+{
+    name: "Banana",
+    price: 10,
+    review: "Nice"
+},
+{
+    name: "Apple",
+    price: 50,
+    review: "Awesome"
+},
+{
+    name: "Mango",
+    price: 30,
+    review: "Tasty!"
+}
